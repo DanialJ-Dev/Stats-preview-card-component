@@ -64,7 +64,7 @@ body{
     color: hsla(0, 0%, 86%, 0.6);
 }
 .stat-item h2{
-    color: hsla(0, 0%, 100%, 0.90);
+    color: hsl(0, 0%, 100%);
     font-weight: 700;
     font-size: 22px;
 }
